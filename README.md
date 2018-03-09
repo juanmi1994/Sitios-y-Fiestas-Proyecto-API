@@ -17,9 +17,9 @@ El segundo elemento es la carpeta del propio proyecto que debemos llevar al /var
 
 -------------------------------------------
 Proyecto Fiestas y Sitios ​ - Juan Maria Dominguez
-
+-
 Mi API Rest - Programa(Explicación);
-
+-
 Con la realización de este proyecto de “API en el frameworks Codeigniter” lo que se ha
 querido conseguir y realizar es un programa el cual vinculado con una Base de Datos
 existente y configurada, pueda elegir, añadir, actualizar y/o borrar tanto sitios como fiestas y
