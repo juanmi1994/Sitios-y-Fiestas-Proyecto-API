@@ -32,7 +32,8 @@ Los datos de esta API estarían almacenados en una Base de datos existente,
 preconfigurada y actualizable, todo configurado con y bajo el frameworks Codeigniter.
 
 ---------------------------------------------
-"Referencias" detalladas en el pdf estan situadas pero a groso modo,
+"Referencias Web" 
+Las referencias detalladas se situan en el pdf pero a groso modo,
 hemos cogido recursos de los siguientes proyectos y enlaces;
 
 --> https://github.com/chriskacerguis/codeigniter-restserver
