@@ -9,7 +9,7 @@ Instrucciones del proyecto- "Sitios y Fiestas"
 
 A continuacion se muestran 2 elementos,
 
-El primer elemento consta de un pdf el cual contiene todo el manual de la instalacion al completo con capturas y texto del proceso, asi como introduccion, conclusion y referencias web.
+El primer elemento consta de un pdf el cual contiene todo el manual de la instalacion al completo con capturas y texto del proceso, asi como introduccion, conclusion y referencias web y ejemplos de funcionamiento.
 
 El segundo elemento es la carpeta del propio proyecto que debemos llevar al /var/www/html. La cual contiene toda la configuracion de nuestra API Rest con el framework Codeigniter.
 
