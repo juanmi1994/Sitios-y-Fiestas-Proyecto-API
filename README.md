@@ -30,4 +30,3 @@ vía web.
 
 Los datos de esta API estarían almacenados en una Base de datos existente,
 preconfigurada y actualizable, todo configurado con y bajo el frameworks Codeigniter.
--------------------------------------------
